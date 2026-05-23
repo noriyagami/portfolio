@@ -246,7 +246,7 @@ const sections = {
   DIGITAL: {
     title: "Digital Work",
     items: [
-      { name: "MI AMOR", link: "https://i.ibb.co/bM0gMWhz/445317db-6ddc-4749-b451-f7f2aa8cc30e.jpg", date: "2024" },
+      { name: "MI AMOR", link: "https://imgur.com/a/SHN1m2b", date: "2024" },
 
     ]
   },
